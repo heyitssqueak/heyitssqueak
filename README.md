@@ -8,7 +8,11 @@ I'm a high school junior who is interested in computer science! I'm currently le
 - 📃 Uploading my Markdown notes to GitHub
 - 🥇 Practicing for USACO
 - 🚧 Demonstration of what I currently know in Java
-- 🐸
+
+## Links
+- [Team 1306](https://www.team1306.com/)
+- [LinkedIn](https://www.linkedin.com/in/emilyyao04/)
+- [Codewars](https://www.codewars.com/users/heyitssqueak) // [HackerRank](https://www.hackerrank.com/heyitssqueak) // [LeetCode](https://leetcode.com/heyitssqueak/)
 
 <!--
 **heyitssqueak/heyitssqueak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
